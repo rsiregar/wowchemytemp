@@ -1,5 +1,5 @@
 +++
-# Works in Progress section created with the Pages widget.
+# Articles section created with the Pages widget.
 # This section displays recent blog posts from `content/articles/`.
 
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
@@ -66,3 +66,10 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+[_"Saving lives will save Indonesia's economy,"_](https://www.policyforum.net/saving-lives-will-save-indonesias-economy/) Asia and the Pacific Policy Society, Policy Forum, 6 April 2020.
+<br />
+<br />
+[_"Tobacco industry and 'Making Indonesia 4.0',"_](https://www.thejakartapost.com/academia/2019/04/08/tobacco-industry-and-making-indonesia-4-0.html) The Jakarta Post, 9 April 2019.
+<br />
+<br />
+[_"Why should we use national ships for CPO, coal exports?,"_](https://www.thejakartapost.com/news/2018/03/20/why-should-we-use-national-ships-cpo-coal-exports.html), The Jakarta Post, 20 March 2018.
