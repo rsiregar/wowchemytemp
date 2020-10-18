@@ -2,7 +2,7 @@
 title: "Global Prices, Trade Protection, and Internal Migration: Evidence from Indonesia"
 authors:
 - admin
-date: ""
+date: "2020-10-16T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
