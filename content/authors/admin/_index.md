@@ -20,10 +20,7 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: I am a PhD Candidate in economics at UC Davis. My research interests are international trade, labor economics, and spatial economics.
 
-interests:
-- International Trade
-- Labor Economics
-- Spatial Economics
+interests:[]
 
 education:
   courses:
@@ -75,4 +72,4 @@ I am a PhD Candidate in economics at UC Davis. My research interests are interna
 
 I am on the job market during the 2020-21 academic year. I will be available for interviews at the ASSA 2021 Virtual Annual Meeting and the EEA 2020 Virtual Meeting. 
 
-[Curriculum Vitae](https://rsiregar.github.io/files/Rizki%20Siregar%20-%20CV.pdf)
+{{% staticref "files/Rizki Siregar - CV.pdf" %}}Curriculum Vitae{{% /staticref %}}.
