@@ -66,5 +66,10 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+#### **Global Prices, Trade Protection, and Internal Migration: Evidence from Indonesia**
+{{% staticref "files/Rizki Siregar - JMP.pdf" %}}_[Job Market Paper]_{{% /staticref %}}
+<sub><sup>Abstract: I study how regions respond to price shocks when there is internal migration. I examine Indonesia in the 2000s as it faced both a commodity boom and initiated its import restrictions on rice, a staple food for its large population. I measure exposure to shocks using the variation in the importance of palm-oil and rice across district economies. I find that districts exposed to palm-oil price shocks had significantly higher expenditure per capita and hence received more migration. However, exposure to rice price shocks did not materialize as higher purchasing power to exposed districts. I estimate that the overall welfare increased by 0.39% in Indonesia over the period of 2005 to 2010, with one third of the increase is accounted for internal migration.</sup></sub>
 
+#### **Understanding the Global Trade and Public Health Regime Complex: A Case Study on Breastfeeding and Commercial Breastmilk Substitutes**
+with Katheryn Russ, Phillip Baker, Michaela Byrd, Manho Kang, Hammad Zahid, and David McCoy
 
