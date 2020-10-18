@@ -66,7 +66,8 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-#### **Trade, FDI, and Smoking Prevalence**
+#### **Trade, FDI, and Smoking Prevalence**  
+<br />
 
 #### **Virtual Migration: Online Labor Markets and Spatial Labor Misallocation**
 with Samuel Bazzi, Bo Cowgill, and Zoe Cullen  
