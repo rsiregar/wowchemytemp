@@ -72,4 +72,4 @@ subtitle = ""
 [_"Tobacco industry and 'Making Indonesia 4.0',"_](https://www.thejakartapost.com/academia/2019/04/08/tobacco-industry-and-making-indonesia-4-0.html) The Jakarta Post, 9 April 2019.
 <br />
 <br />
-[_"Why should we use national ships for CPO, coal exports?,"_](https://www.thejakartapost.com/news/2018/03/20/why-should-we-use-national-ships-cpo-coal-exports.html), The Jakarta Post, 20 March 2018.
+[_"Why should we use national ships for CPO, coal exports?,"_](https://www.thejakartapost.com/news/2018/03/20/why-should-we-use-national-ships-cpo-coal-exports.html) The Jakarta Post, 20 March 2018.
