@@ -67,16 +67,14 @@ subtitle = ""
  css_class = ""
 +++
 I was an Associate Instructor for ECN 160B "International Macroeconomics" at UC Davis in the spring of 2019. Here is the {{% staticref "files/Syllabus - ECN 160B - Siregar.pdf" %}}syllabus{{% /staticref %}}.
-<br />
-<br />
+
 Previously, I worked as a Teaching Assistant in the following classes at UC Davis:
 - Money, Banks, and Financial Institution (Dr. Derek Stimel)
 - International Economics Relations (Prof. Deborah Swenson)
 - Economic Development in Weak States (Prof. Arman Rezaee)
 - US Economic History post-Civil War (Dr. Janine Wilson)
 - Economic Development (Prof. Wing Woo, Dr. Janine Wilson)
-<br />
-<br />
+
 I also taught as a lecturer at Universitas Indonesia for the following classes:
 - International Economics
 - Mathematics for Economics
