@@ -20,7 +20,7 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: I am a PhD Candidate in economics at UC Davis. My research interests are international trade, labor economics, and spatial economics.
 
-interests:[]
+# interests:
 
 education:
   courses:
