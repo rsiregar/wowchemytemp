@@ -1,5 +1,2 @@
 
-[submodule "public"]
-	path = public
-	url = https://github.com/rsiregar/rsiregar.github.io.git
-	branch = master
+
