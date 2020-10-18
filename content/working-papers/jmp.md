@@ -1,4 +1,4 @@
-+++
+---
 title: "Global Prices, Trade Protection, and Internal Migration: Evidence from Indonesia"
 authors:
 - admin
@@ -59,4 +59,4 @@ projects: []
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
-+++
+---
