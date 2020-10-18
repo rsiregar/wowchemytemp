@@ -72,6 +72,7 @@ The Indonesia Project Australian National University Global Seminar Series (25 M
 [Youtube](https://www.youtube.com/watch?v=0cb1mWYLozA&feature=youtu.be), {{% staticref "files/handout - Siregar et al.pdf" %}}Slides{{% /staticref %}}
 
 
+
 #### **Menempuh Pendidikan Doktoral di Amerika Serikat (_Preparing for a Doctoral Program in the US_)**
 RISED (8 June 2020)
 [Youtube](https://www.youtube.com/watch?v=7huSU5H9Tcc&feature=youtu.be), {{% staticref "files/Menempuh Pendidikan Doktoral di AS - handout - 13 Juni 2020.pdf" %}}Slides{{% /staticref %}}
