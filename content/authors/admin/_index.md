@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a PhD Candidate in economics at UC Davis. My research interests are international trade, labor economics, and spatial economics.
+bio: I am a PhD Candidate in Economics at UC Davis. My research interests are international trade, labor economics, and spatial economics.
 
 education:
   courses:
@@ -66,7 +66,7 @@ highlight_name: false
 user_groups: []
 ---
 
-I am a PhD Candidate in economics at UC Davis. My research interests are international trade, labor economics, and spatial economics.
+I am a PhD Candidate in Economics at UC Davis. My research interests are international trade, labor economics, and spatial economics.
 
 I am on the job market during the 2020-21 academic year. I will be available for interviews at the ASSA 2021 Virtual Annual Meeting and the EEA 2020 Virtual Meeting. 
 
