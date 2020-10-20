@@ -21,7 +21,7 @@
   weight = 30
 
 [[main]]
-  name = "Works in Progress"
+  name = "Work in Progress"
   url = "#wip"
   weight = 40
 
