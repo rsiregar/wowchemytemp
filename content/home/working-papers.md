@@ -67,9 +67,9 @@ subtitle = ""
  css_class = ""
 +++
 #### **Global Prices, Trade Protection, and Internal Migration: Evidence from Indonesia**
-{{% staticref "files/Rizki Siregar - JMP.pdf" %}}_[Job Market Paper]_{{% /staticref %}}
+_[Job Market Paper]_
 
-_Abstract_: I study how regions respond to price shocks in the presence of internal migration. I examine Indonesia in the 2000s as it faced both a commodity boom and initiated its import restrictions on rice, a staple food for its large population. I measure exposure to shocks using the variation in the importance of palm-oil and rice across district economies. I find that districts exposed to palm-oil price shocks had temporarily higher expenditure per capita. Hence, they received more migration. However, exposure to rice price shocks did not materialize as higher purchasing power to exposed districts. I estimate that the overall welfare increased by 0.39% in Indonesia between 2005 and 2010, and that one third of this increase is associated with internal migration.
+_Abstract_: I study how regions respond to price shocks in the presence of internal migration. I examine Indonesia in the 2000s as it faced a commodity boom and initiated its trade protection on rice, a staple food for its large population. I expoit the variation in the importance of palm-oil and rice across district economies to measure local exposure to shocks. I find that districts exposed to palm-oil price shocks had higher real expenditure per capita compared to the non-exposed ones. These exposed districts also received more migration, providing the evidence that local palm-oil price shocks were no longer local. Meanwhile, exposure to rice price shocks did not materialize as higher purchasing power to exposed districts compared to the non-exposed ones. I estimate that the overall welfare increased by 0.39% in Indonesia between 2005 and 2010, and one third of the increase can be accounted for by internal migration.
 <br />
 <br />
 #### **Understanding the Global Trade and Public Health Regime Complex: A Case Study on Breastfeeding and Commercial Breastmilk Substitutes**
