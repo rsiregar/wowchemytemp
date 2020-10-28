@@ -19,3 +19,11 @@ header:
 ###### **Virtual Migration: Online Labor Markets and Spatial Labor Misallocation**
 with Samuel Bazzi, Bo Cowgill, and Zoe Cullen
 [AEA RCT registry](https://www.socialscienceregistry.org/trials/2444)
+
+
+###### **Price Divergence in Times of Protectionist Regime**
+with Teguh Dartanto
+
+
+###### **The Determinants of Initial Negotiating Rights**
+
