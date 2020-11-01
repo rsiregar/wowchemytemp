@@ -73,10 +73,11 @@ subtitle = ""
 with Samuel Bazzi, Bo Cowgill, and Zoe Cullen  
 [[AEA RCT registry]](https://www.socialscienceregistry.org/trials/2444)
 <br />
-  
+<br />
   
 #### **Price Divergence in Times of Trade Protection**
 with Teguh Dartanto
+<br />
 <br />
   
   
