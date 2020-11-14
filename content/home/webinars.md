@@ -67,6 +67,11 @@ subtitle = ""
  css_class = ""
 +++
 
+#### **"Ask a Mentor": Panel and Info Session in Humanities, Arts and Social Sciences and Digital Projects**
+Undergraduate Research Center UC Davis (15 Oct 2020)<br/>
+[Youtube](https://www.youtube.com/watch?v=qypXWihaUCE&t=4s)
+<br />
+<br />
 #### **Reading the Corona: Extraordinary Measures during an Extraordinary Time**
 The Indonesia Project Australian National University Global Seminar Series (25 March 2020)<br/>
 [Youtube](https://www.youtube.com/watch?v=0cb1mWYLozA&feature=youtu.be), {{% staticref "files/handout - Siregar et al.pdf" %}}Slides{{% /staticref %}}
