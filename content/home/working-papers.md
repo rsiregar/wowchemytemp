@@ -74,5 +74,5 @@ _Abstract_: I study how regions respond to price shocks in the presence of inter
 <br />
 #### **Understanding the Global Trade and Public Health Regime Complex: A Case Study on Breastfeeding and Commercial Breastmilk Substitutes**
 with Katheryn Russ, Phillip Baker, Michaela Byrd, Manho Kang, Hammad Zahid, and David McCoy
-_[link]_(https://katherynruss.weebly.com/uploads/4/5/1/7/45179109/bmstrade_politicaleconomy_2020_09_16_clean.pdf)
+[[link]](https://katherynruss.weebly.com/uploads/4/5/1/7/45179109/bmstrade_politicaleconomy_2020_09_16_clean.pdf)
 
