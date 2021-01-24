@@ -66,7 +66,9 @@ highlight_name: false
 user_groups: []
 ---
 
-I am a PhD Candidate in Economics at UC Davis. My research interests are international trade, labor economics, and spatial economics.
+I am a PhD Candidate in Economics at UC Davis. My research aims to provide guidance in dealing with the distributional impacts of globalization and economic policies.
+
+Research interests: international trade, labor economics, and spatial economics.
 
 I am on the job market during the 2020-21 academic year. I will be available for interviews at the EEA 2020 Virtual Meeting and the ASSA 2021 Virtual Annual Meeting. 
 
