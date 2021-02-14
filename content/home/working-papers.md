@@ -72,7 +72,7 @@ subtitle = ""
 _Abstract_: I study how regions respond to price shocks in the presence of internal migration. I examine Indonesia in the 2000s as it faced a commodity boom for its export commodities and initiated its trade protection on rice, a staple food for its population. I use the variation in the potential shares of palm oil and rice sectors across district economies to measure local exposure to shocks. I find that the commodity boom increased the real expenditure per capita of palm oil-producing districts. These districts also received more migration, providing evidence that palm oil price shocks were no longer localized and internal migration spreads the windfall. However, these relatively higher levels of real expenditure per capita do not last after the commodity boom ends in 2014. Meanwhile, the trade protection on rice did not materialize as higher purchasing power to rice-producing districts. I estimate the overall welfare gains in Indonesia between 2005 and 2010. Gains from migration accounts for one-third of these gains.
 <br />
 <br />
-#### **Understanding the Global Trade and Public Health Regime Complex: A Case Study on Breastfeeding and Commercial Breastmilk Substitutes**
+#### **What You Don't Know about the Codex Can Hurt You: How modern trade policy shapes public health governance on infant and young children nutrition**
 with Katheryn Russ, Phillip Baker, Michaela Byrd, Manho Kang, Hammad Zahid, and David McCoy
-[[link]](https://katherynruss.weebly.com/uploads/4/5/1/7/45179109/bmstrade_politicaleconomy_2020_09_16_clean.pdf)
+[[link]](https://katherynruss.weebly.com/uploads/4/5/1/7/45179109/manuscript_2021-01-04.pdf)
 
