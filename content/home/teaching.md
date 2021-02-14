@@ -66,7 +66,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-I was an Associate Instructor for ECN 160B "International Macroeconomics" at UC Davis in the Spring of 2019. Here is the syllabus: {{% staticref "files/Syllabus - ECN 160B - Siregar.pdf" %}}_syllabus_{{% /staticref %}}.
+I was an Associate Instructor for ECN 160B "International Macroeconomics" at UC Davis in the Spring of 2019. Here is the syllabus: [syllabus](https://github.com/rsiregar/wowchemytemp/blob/master/static/files/Syllabus%20-%20ECN%20160B%20-%20Siregar.pdf)
 
 Previously, I worked as a Teaching Assistant in the following classes at UC Davis:
 - Money, Banks, and Financial Institution (Dr. Derek Stimel)
