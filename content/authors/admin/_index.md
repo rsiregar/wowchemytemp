@@ -68,6 +68,8 @@ user_groups: []
 
 I am a PhD Candidate in Economics at UC Davis. My research aims to provide guidance in dealing with the distributional impacts of globalization and economic policies.
 
+I will join the [Chair of International Economic Policy](https://international-policy.economics.uni-mainz.de/) at the [Gutenberg School of Management and Economics at the University of Mainz](https://wiwi.uni-mainz.de/) as a postdoctoral researcher in Summer 2021.
+
 Research interests: international trade, labor economics, and spatial economics.
 
 
