@@ -14,17 +14,17 @@ role: PhD Candidate in Economics
 
 # Organizations/Affiliations
 organizations:
-- name: University of California Davis
+- name: University of Mainz
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a PhD Candidate in Economics at UC Davis. My research interests are international trade, labor economics, and spatial economics.
+bio: I am a Postdoctoral Researcher in the Chair of International Economic Policy at the University of Mainz. My research interests are international trade, labor economics, spatial economics, and development economics.
 
 education:
   courses:
   - course: PhD in Economics
     institution: UC Davis
-    year: 2021 (expected)
+    year: 2021
   - course: MA in Economics
     institution: Boston University
     year: 2011
@@ -39,7 +39,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:rsiregar@ucdavis.edu"  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:rsiregar@uni-mainz.edu"  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/rizkisiregar
@@ -66,13 +66,11 @@ highlight_name: false
 user_groups: []
 ---
 
-I am a PhD Candidate in Economics at UC Davis. My research aims to provide guidance in dealing with the distributional impacts of globalization and economic policies.
-
-I will join the [Chair of International Economic Policy](https://international-policy.economics.uni-mainz.de/) at the [Gutenberg School of Management and Economics at the University of Mainz](https://wiwi.uni-mainz.de/) as a postdoctoral researcher in Summer 2021.
+I am a Postdoctoral Researcher in the [Chair of International Economic Policy](https://international-policy.economics.uni-mainz.de/) at the [Gutenberg School of Management and Economics at the University of Mainz](https://wiwi.uni-mainz.de/). My research aims to provide guidance in dealing with the distributional impacts of globalization.
 
 Research interests: international trade, labor economics, and spatial economics.
 
 
 {{% staticref "files/Rizki Siregar - CV.pdf" %}}Curriculum Vitae{{% /staticref %}} 
 
-{{% staticref "files/Rizki Siregar - JMP.pdf" %}}Job Market Paper{{% /staticref %}}
+# {{% staticref "files/Rizki Siregar - JMP.pdf" %}}Job Market Paper{{% /staticref %}}
