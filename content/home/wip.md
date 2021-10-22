@@ -66,20 +66,15 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-#### **Trade, FDI, and Smoking Prevalence**  
+#### **Price Divergence in Times of Trade Protection**
+with Jess Rudder and Teguh Dartanto
 <br />
-
+<br />
 #### **Virtual Migration: Online Labor Markets and Spatial Labor Misallocation**
 with Samuel Bazzi, Bo Cowgill, and Zoe Cullen  
 [[AEA RCT registry]](https://www.socialscienceregistry.org/trials/2444)
-<br />
-<br />
+
   
-#### **Price Divergence in Times of Trade Protection**
-with Teguh Dartanto
-<br />
-<br />
-  
-  
-#### **The Determinants of Initial Negotiating Rights**
+
+
 
