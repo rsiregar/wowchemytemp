@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Candidate in Economics
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations
 organizations:
@@ -70,7 +70,7 @@ user_groups: []
 
 I am a Postdoctoral Researcher in the [Chair of International Economic Policy](https://international-policy.economics.uni-mainz.de/) at the [Gutenberg School of Management and Economics at the University of Mainz](https://wiwi.uni-mainz.de/). My research aims to provide guidance in dealing with the distributional impacts of globalization.
 
-Research interests: international trade, labor economics, and spatial economics.
+Research interests: international trade, labor economics, spatial economics, and development economics.
 
 
 {{% staticref "files/Rizki Siregar - CV.pdf" %}}Curriculum Vitae{{% /staticref %}} 
