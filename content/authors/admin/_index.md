@@ -64,6 +64,8 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups: []
+
+# {{% staticref "files/Rizki Siregar - JMP.pdf" %}}Job Market Paper{{% /staticref %}}
 ---
 
 I am a Postdoctoral Researcher in the [Chair of International Economic Policy](https://international-policy.economics.uni-mainz.de/) at the [Gutenberg School of Management and Economics at the University of Mainz](https://wiwi.uni-mainz.de/). My research aims to provide guidance in dealing with the distributional impacts of globalization.
@@ -73,4 +75,4 @@ Research interests: international trade, labor economics, and spatial economics.
 
 {{% staticref "files/Rizki Siregar - CV.pdf" %}}Curriculum Vitae{{% /staticref %}} 
 
-# {{% staticref "files/Rizki Siregar - JMP.pdf" %}}Job Market Paper{{% /staticref %}}
+
