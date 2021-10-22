@@ -1,11 +1,11 @@
 +++
-# Publications section created with the Pages widget.
-# This section displays recent blog posts from `content/publications/`.
+# Working Papers section created with the Pages widget.
+# This section displays recent blog posts from `content/working-papers/`.
 
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 20  # Order that this section will appear.
+weight = 30  # Order that this section will appear.
 
 title = "Publications"
 subtitle = ""
@@ -66,6 +66,8 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-#### **What You Don't Know about the Codex Can Hurt You: How modern trade policy shapes public health governance on infant and young children nutrition**
-with Katheryn Russ, Phillip Baker, Michaela Byrd, Manho Kang, Hammad Zahid, and David McCoy, _International Journal of Health Policy and Management_, 2021.
+#### **What You Don’t Know About the Codex Can Hurt You: How Trade Policy Trumps Global Health Governance in Infant and Young Child Nutrition**
+with Katheryn Russ, Phillip Baker, Michaela Byrd, Manho Kang, Hammad Zahid, and David McCoy, _International Journal of Health Policy and Management_, 2021
 [[link]](https://www.ijhpm.com/?_action=articleInfo&article=4101&lang)
+
+
