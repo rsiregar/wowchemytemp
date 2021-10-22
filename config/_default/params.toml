@@ -45,7 +45,7 @@ local_business_type = ""
 
 # Organization name (optional)
 # Enter an organization or project name. Defaults to the site title from `config.toml`.
-org_name = "University of California Davis"
+org_name = "University of Mainz"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
 description = ""
@@ -88,12 +88,12 @@ show_related = {docs = false, page = false, post = false, project = false, publi
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "rsiregar@ucdavis.edu"
-phone = "+1 (530) 761 - 8727"
+email = "rsiregar@uni-mainz.de"
+phone = "+49 (0151) 4003-4373"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "One Shields Avenue", city = "Davis", region = "CA", postcode = "95616", country = "United States", country_code = "US"}
+address = {street = "Jakob-Welder-Weg 4", city = "Mainz", region = "Rhineland-Palatinate", postcode = "55128", country = "Germany", country_code = "DEU"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
