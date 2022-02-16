@@ -73,6 +73,9 @@ with Jonah Busch, Oyut Amarjargal, Kemen Austin, Farzad Taheripour, Thomas Herte
 with Katheryn Russ, Phillip Baker, Michaela Byrd, Manho Kang, Hammad Zahid, and David McCoy, _International Journal of Health Policy and Management_, 2021
 [[link]](https://www.ijhpm.com/?_action=articleInfo&article=4101&lang)
 
+#### **Small and Medium Enterprises in Regional Production Networks: An Indonesian Case**
+with T.M. Zakir Machmud, in _Integrating Small and Medium Enterprises (SMEs) into the More Integrated East Asia_, ERIA Research Project Report 2009, No. 8. [[link]](https://www.eria.org/uploads/media/Research-Project-Report/RPR_FY2009_08.pdf)
+
 
 
 
