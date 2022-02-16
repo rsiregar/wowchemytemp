@@ -67,16 +67,21 @@ subtitle = ""
  css_class = ""
 +++
 
+#### **How to Thrive Academically in the US**
+Welcoming Awardee of Endowment Fund for Education in the USA
+[Video](https://youtu.be/miAOq3Kqa6I?t=4831), {{% staticref "files/How to Thrive Academically in the USA - Rizki Nauli Siregar.pdf" "newtab" %}}Slides{{% /staticref %}}
+<br />
+<br />
 #### **"Ask a Mentor": Panel and Info Session in Humanities, Arts and Social Sciences and Digital Projects**
 Undergraduate Research Center UC Davis (15 Oct 2020)<br/>
-[Youtube](https://www.youtube.com/watch?v=qypXWihaUCE&t=4s)
+[Video](https://www.youtube.com/watch?v=qypXWihaUCE&t=4s)
 <br />
 <br />
 #### **Reading the Corona: Extraordinary Measures during an Extraordinary Time**
 The Indonesia Project Australian National University Global Seminar Series (25 March 2020)<br/>
-[Youtube](https://www.youtube.com/watch?v=0cb1mWYLozA&feature=youtu.be), {{% staticref "files/handout - Siregar et al.pdf" "newtab" %}}Slides{{% /staticref %}}
+[Video](https://www.youtube.com/watch?v=0cb1mWYLozA&feature=youtu.be), {{% staticref "files/handout - Siregar et al.pdf" "newtab" %}}Slides{{% /staticref %}}
 <br />
 <br />
 #### **Menempuh Pendidikan Doktoral di Amerika Serikat (_Preparing for a Doctoral Program in the US_)**
 RISED (8 June 2020)<br/>
-[Youtube](https://www.youtube.com/watch?v=7huSU5H9Tcc&feature=youtu.be), {{% staticref "files/Menempuh Pendidikan Doktoral di AS - handout - 13 Juni 2020.pdf" "newtab" %}}Slides{{% /staticref %}}
+[Video](https://www.youtube.com/watch?v=7huSU5H9Tcc&feature=youtu.be), {{% staticref "files/Menempuh Pendidikan Doktoral di AS - handout - 13 Juni 2020.pdf" "newtab" %}}Slides{{% /staticref %}}
