@@ -70,6 +70,10 @@ subtitle = ""
 with Jess Rudder and Teguh Dartanto
 <br />
 <br />
+#### **Consumer Safety Standards and Deep Trade Agreements**
+with Katheryn Russ, Burkhard Schipper, Phillip Baker, David McCoy, Faiz Ahmed, Julianna Eaton, Kyle Nabors, and Shaelyn Steere
+<br />
+<br />
 #### **Virtual Migration: Online Labor Markets and Spatial Labor Misallocation**
 with Samuel Bazzi, Bo Cowgill, and Zoe Cullen  
 [[AEA RCT registry]](https://www.socialscienceregistry.org/trials/2444)
