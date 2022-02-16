@@ -73,11 +73,9 @@ _Abstract_: I study how regions respond to price shocks in the presence of inter
 <br />
 <br />
 #### **New-consumer Margin at Work: Exposure to Television Ads as Driver of Smoking Prevalence**
+_available upon request_, presentation at [[Tobacco Online Policy Seminar]](https://www.tobaccopolicy.org/seminars.html): [[Video]](https://www.youtube.com/watch?v=b7Nxrv0va_c), [[Slides]](https://www.tobaccopolicy.org/pdfs/36%20Siregar%202022.02.04.pdf))
 <br />
 <br />
 #### **Consumer Price Indices for the Poor in Indonesia**
 with Rizal Adi Prima and Chairina Hanum, report for the The National Team for the Acceleration of Poverty Reduction in the Indone- sian Vice President’s Office by SEADI Project of the Boston Institute for Development Economies.
-<br />
-<br />
-#### **Small and Medium Enterprises in Regional Production Networks: An Indonesian Case**
-with T.M. Zakir Machmud, in _Integrating Small and Medium Enterprises (SMEs) into the More Integrated East Asia_, ERIA Research Project Report 2009, No. 8.
+
