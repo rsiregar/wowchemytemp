@@ -66,7 +66,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-#### **Effects of Demand-side Restrictions on High-deforestation Palm Oil in Europe on De- forestation and Emissions in Indonesia**
+#### **Effects of Demand-side Restrictions on High-deforestation Palm Oil in Europe on Deforestation and Emissions in Indonesia**
 with Jonah Busch, Oyut Amarjargal, Kemen Austin, Farzad Taheripour, Thomas Hertel, and Kellee Koenig, _Environmental Research Letters_, 2022 [[link]](https://iopscience.iop.org/article/10.1088/1748-9326/ac435e/meta)
 
 #### **What You Don’t Know About the Codex Can Hurt You: How Trade Policy Trumps Global Health Governance in Infant and Young Child Nutrition**
